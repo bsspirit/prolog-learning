@@ -2,7 +2,7 @@
 
 本项目为系列文章的代码！
 
-![](http://blog.fens.me/wp-content/uploads/2020/12/prolog-series.png)
+![](./img/prolog-series.png)
 
 [Prolog语言知识推理系列文章](http://blog.fens.me/series-prolog/)，(http://blog.fens.me/series-prolog/) 不同编程语言有着不同编程视角，JAVA是面向对象，Nodejs是异步回调，R语言是统计算法，Prolog就是知识推理。每种语言都是独特的，如果想把一门语言学好用好，关键是利用语言的特点，做对的事情。
 
