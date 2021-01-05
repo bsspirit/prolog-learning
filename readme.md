@@ -9,3 +9,5 @@
 ## 文章列表(代码):
 
 + [prolog语言安装](http://blog.fens.me/prolog-install/) => 01 install
++ [用prolog推理家族关系](http://blog.fens.me/prolog-family/) => 02 family
+
