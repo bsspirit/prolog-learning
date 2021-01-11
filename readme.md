@@ -10,4 +10,5 @@
 
 + [prolog语言安装](http://blog.fens.me/prolog-install/) => 01 install
 + [用prolog推理家族关系](http://blog.fens.me/prolog-family/) => 02 family
++ [Prolog的软件包管理器](http://blog.fens.me/prolog-packages/) => 03 package
 
